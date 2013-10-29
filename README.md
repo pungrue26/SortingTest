@@ -3,6 +3,6 @@
 
 * You can see the full assignment specification at [HERE](http://147.46.240.125:8000/assignments/4) or in [GitHub](https://github.com/operatz/sustainable-assistance/blob/master/public/assignment_content/4.html).
 
-* Basically, The goal of this assignment is to implement various sorting algorithm. 
+* Basically, The goal of this assignment is to implement various sorting algorithm. Test case files are under /bin folder, and you can easily find how to use them. :)
 
 * Please Enjoy! :)
